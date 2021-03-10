@@ -4,7 +4,7 @@
     "repository": "git@github.com:dvakatsiienko/tsconfig-dva.git",
     "author": "Dima Vakatsiienko <imagnum.satellite@gmail.com>",
     "license": "MIT",
-    "main": "index.js",
+    "main": "tsconfig.json",
     "keywords": [
         "typescript",
         "tsconfig",

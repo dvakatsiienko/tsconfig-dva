@@ -1,8 +1,4 @@
 {
-    /* File inclusion */
-    "exclude": ["node_modules"],
-    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-
     "compilerOptions": {
         /* Project options */
         "target": "ESNext",
@@ -21,8 +17,6 @@
 
         /* Module resolution */
         "moduleResolution": "Node",
-        "baseUrl": ".",
-        "paths": { "@/*": ["src/*"] },
         "allowSyntheticDefaultImports": true,
         "esModuleInterop": true,
 

@@ -1,6 +1,6 @@
 {
     "name": "tsconfig-dva",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": "git@github.com:dvakatsiienko/tsconfig-dva.git",
     "author": "Dima Vakatsiienko <imagnum.satellite@gmail.com>",
     "license": "MIT",

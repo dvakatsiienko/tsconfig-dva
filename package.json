@@ -1,0 +1,19 @@
+{
+    "name": "tsconfig-dva",
+    "version": "0.0.1",
+    "repository": "git@github.com:dvakatsiienko/tsconfig-dva.git",
+    "author": "Dima Vakatsiienko <imagnum.satellite@gmail.com>",
+    "license": "MIT",
+    "main": "index.js",
+    "keywords": [
+        "typescript",
+        "tsconfig",
+        "tsconfig-dva"
+    ],
+    "peerDependencies": {
+        "typescript": "4.2.3"
+    },
+    "devDependencies": {
+        "typescript": "4.2.3"
+    }
+}
